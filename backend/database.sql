@@ -22,5 +22,5 @@ CREATE TABLE hackers (
 INSERT INTO hackers (
     id, first_name, last_name, preferred_name, pronouns, shirt_size, dietary_restrictions, checked_in, swag,friday_dinner, saturday_breakfast, saturday_lunch, saturday_dinner, sunday_breakfast
 ) VALUES 
-(1001, 'John', 'Doe', 'Did', 'She/her', 'S', 'N/A', FALSE, FALSE, FALSE, FALSE, FALSE, FALSE, FALSE),
-(1002, 'Aryan', 'Kansagara', NULL, 'he/him', 'M', 'N/A', FALSE, FALSE, FALSE, FALSE, FALSE, FALSE, FALSE);
+(1001, 'Luana', 'Madeira', 'Luana', 'She/her', 'S', 'N/A', FALSE, FALSE, FALSE, FALSE, FALSE, FALSE, FALSE),
+(1002, 'Julia', 'Da Silva', NULL, 'She/her', 'M', 'Halal', FALSE, FALSE, FALSE, FALSE, FALSE, FALSE, FALSE);
